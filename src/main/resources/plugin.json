@@ -1,0 +1,8 @@
+{
+  "mainClass": "net.zenoc.gallium.example.ExamplePlugin",
+  "name": "Example Plugin",
+  "id": "exampleplugin",
+  "description": "An example plugin for Gallium",
+  "authors": ["GalliumPowered Contributors"],
+  "version": "1.0"
+}
