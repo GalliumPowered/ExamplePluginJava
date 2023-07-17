@@ -1,5 +1,5 @@
 {
-  "mainClass": "net.zenoc.gallium.example.ExamplePlugin",
+  "mainClass": "org.galliumpowered.example.ExamplePlugin",
   "name": "Example Plugin",
   "id": "exampleplugin",
   "description": "An example plugin for Gallium",
